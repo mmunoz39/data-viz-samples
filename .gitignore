@@ -1,0 +1,33 @@
+# ---- OS / IDE ----
+*.log
+*.tmp
+*.temp
+*.bak
+*.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- SQL / Backups ----
+*.bak
+*.sqlproj.user
+*.mdf
+*.ldf
+
+# ---- Power BI ----
+*.pbix.backup
+*.pbit
+*.pbiDataCache
+*.pbiTemp
+*.pbi*
+
+# ---- SSRS ----
+*.rdl.data
+*.rds
+*.rss
+*.rdlc
+
+# ---- Datasets (if too large, keep only samples) ----
+datasets/*.csv
+datasets/*.xlsx
+datasets/*.xls
+datasets/*.json

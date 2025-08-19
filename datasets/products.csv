@@ -1,0 +1,9 @@
+ProductID,Collection,FinishType,DoorStyle,Category,UnitCost
+P1001,Sandwash,Textured Painted MDF,Shaker,Kitchen,145.00
+P1002,Thermofoil,Thermofoil,Slab,Kitchen,95.00
+P1003,Fusion,Painted MDF,Five-Piece,Kitchen,175.00
+P1004,Laminate,Laminate,Slab,Mudroom/Laundry,70.00
+P1005,Rustic Wood,Stained Wood,Raised Panel,Kitchen,220.00
+P1006,Fusion,Painted MDF,Shaker,Bath,120.00
+P1007,Thermofoil,Thermofoil,Five-Piece,Bath,85.00
+P1008,Sandwash,Textured Painted MDF,Slab,Bar,130.00
