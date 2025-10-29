@@ -1,12 +1,10 @@
 # Data Visualization Samples
-
 This repository contains a collection of data visualization samples built using **SQL Server Reporting Services (SSRS)** and **Power BI**.  
 It includes datasets, SQL queries, and reports designed to demonstrate different reporting and visualization techniques.
 
 ---
 
 ## Repository Structure
-
 ```
 data-viz-samples/
 │
@@ -44,7 +42,6 @@ data-viz-samples/
 ---
 
 ## Features
-
 - **SSRS Reports**:  
   - Paginated reports with parameters  
   - Bar charts, scatter plots, and drilldowns  
@@ -58,7 +55,6 @@ data-viz-samples/
 ---
 
 ## Screenshots
-
 Stored in the `docs/` folder:
 
 - **Microsoft_Report_Builder_Sales_Rep.png** → Report design in Microsoft Report Builder  
@@ -70,13 +66,11 @@ Stored in the `docs/` folder:
 ---
 
 ## License
-
-This project is provided for **educational and demonstration purposes**.  
-You are free to use, modify, and share it under the MIT License.
+This project is provided for educational and demonstration purposes.
+Feel free to fork, clone or contribute!
 
 ---
 
 ## Author
-
 **Marcelo Munoz**  
-Data & Software Developer | Saskatoon, Canada
+Data & Software Developer | Saskatoon, SK, Canada
