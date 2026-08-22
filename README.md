@@ -73,4 +73,4 @@ Feel free to fork, clone or contribute!
 
 ## Author
 **Marcelo Munoz**  
-Data & Software Developer | Saskatoon, SK, Canada
+Software Developer | Systems Analyst | C#/.NET & Full-Stack
